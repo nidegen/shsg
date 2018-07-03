@@ -9,19 +9,19 @@ Studentenschaft der Universität St. Gallen vom 03. März 2011 als Finanzregleme
 
 (Zur besseren Lesbarkeit wird für beide Geschlechter die männliche Form verwendet)
 
-## Art. 1
+#### Art. 1
 
 Durch eine qualitativ hochwertige Rechnungsführung und die in diesem Reglement getroffenen Anordnungen soll die
 gesetzeskonforme und für die Studenten transparente Verwendung ihrer finanziellen Mittel sichergestellt werden.
 
 ## I. Parteien
 
-## Art. 2
+#### Art. 2
 
 Dieses Finanzreglement gilt für die Studentenschaft sowie alle ihre Organisationseinheiten wie Initiativen, Projekte und
 Fonds, soweit nicht spezielle, durch das Studentenparlament beschlossene Reglemente abweichende Regelungen vorsehen.
 
-## Art. 3
+#### Art. 3
 
 #### [1] ...
 
@@ -42,7 +42,7 @@ reglementarischen Vorschriften und Vorgaben des Parlaments verantwortlich
 5 Der zentrale Buchführer ist dem Parlament für die Einhaltung der reglementarischen Vorschriften und Vorgaben
 verantwortlich.
 
-## Art. 4
+#### Art. 4
 
 1 Jede Organisationseinheit hat einen Rechnungsführer.
 
@@ -61,7 +61,7 @@ verlangten Auskünfte. Im Falle einer länger währenden Verhinderung ist im Vor
 Stellvertretungsregelung mit diesen zu vereinbaren.
 
 
-### Art. 4a
+#### Art. 4a
 
 1 Der Vorstand der Studentenschaft kann einen zentralen Buchführer bestimmen.
 
@@ -72,7 +72,7 @@ von Zahlungen.
 
 ## II. Rechnungsführung
 
-### Art. 5
+#### Art. 5
 
 1 Die gesetzlichen Vorschriften und Grundsätze, insbesondere der Grundsatz der Stetigkeit, sind zu beachten.
 
@@ -88,7 +88,7 @@ gliedern und zu dokumentieren ist.
 5 Der für Finanzen zuständige Vorstand stellt allen Organisationseinheiten den zu verwendenden Kontenrahmen zur
 Verfügung.
 
-### Art. 6
+#### Art. 6
 
 1 Die Rechnungsabgrenzung zwischen den einzelnen Rechnungsperioden ist besonders sorgfältig vorzunehmen.
 Insbesondere darf sich die Verantwortung der Mitglieder einer Organisationseinheit nur auf die in ihrer Periode
@@ -99,7 +99,7 @@ abzuschreiben. Ausnahmen sind von der GPK zu genehmigen.
 
 ### [Art. 7] ...
 
-### Art. 8
+#### Art. 8
 
 1 Spesen und Entschädigungen werden im Spesenreglement der Studentenschaft geregelt.
 
@@ -107,7 +107,7 @@ abzuschreiben. Ausnahmen sind von der GPK zu genehmigen.
 
 3 Die im Zeitpunkt der Budgetbewilligung geltende Version des Spesenreglements gilt für die gesamte Rechnungsperiode.
 
-### Art. 9
+#### Art. 9
 
 1 Wird ein Aufwandüberschuss absehbar, so sind unmittelbar der für Finanzen zuständige Vorstand und die GPK zu
 unterrichten und das Studentenparlament zu informieren. Sie unterstützen die Organisationseinheit in der
@@ -121,7 +121,7 @@ Finanzkommission zu unterrichten. Letztere befindet über Sofortmassnahmen bis d
 
 ## III. Kompetenzen
 
-### Art. 10
+#### Art. 10
 
 
 1 Die Mitglieder mit Verwaltungsfunktion vertreten die Organisationseinheit für Geschäfte, die im Rahmen der
@@ -141,7 +141,7 @@ als CHF 1000.- nach sich ziehen würde.
 
 [ 6 ] ...
 
-### Art. 11
+#### Art. 11
 
 1 Verfügbares Vermögen ist bei Bankinstituten anzulegen, die Schweizer finanzmarktrechtlicher Kontrolle unterliegen.
 
@@ -161,7 +161,7 @@ zur Genehmigung vorgelegt und jedes Jahr von dieser überprüft werden.
 
 ## IV. Budget
 
-### Art. 12
+#### Art. 12
 
 1 Das Budget einer Organisationseinheit darf keinen Verlust aus der operativen Tätigkeit in der Rechnungsperiode
 vorsehen.
@@ -186,7 +186,7 @@ auf diese Weise genehmigt werden. Jede weitere Genehmigung muss zwingend durch d
 5bis Genehmigungsentscheide im Zusammenhang mit Neubudgetierungen sind zu begründen und dem Studentenparlament
 in der letzten Sitzung der Rechnungsperiode auf schriftlichem Wege bekanntzugeben.
 
-### Art. 13
+#### Art. 13
 
 1 Weist eine Organisationseinheit mehr als das doppelte des zur Zweckerfüllung notwendigen Grundkapitals auf, kann sie
 im Rahmen der Budgetierung die Auflösung bis maximal zu dieser Grenze beantragen.
@@ -197,7 +197,7 @@ im Rahmen der Budgetierung die Auflösung bis maximal zu dieser Grenze beantrage
 ```
 Studenten der Universität St. Gallen verwendet werden.
 ```
-### Art. 13bis
+#### Art. 13bis
 
 1 Bei erheblicher Zeitnot können Projektbudgets von bis zu CHF 5000.- von der Finanzkommission mit einfachem
 Mehrheitsbeschluss bewilligt werden.
@@ -210,7 +210,7 @@ Kompetenz explizit für jede weiteren CHF 10'000 vom Studentenparlament erteilt 
 
 ## V. Rechnungsabnahme
 
-### Art. 14
+#### Art. 14
 
 1 Rechnungsführer und Präsident der Organisationseinheit erstellen zuhanden des Studentenparlaments einen Bericht
 über das Geschäftsjahr. Diesem ist die Erfolgsrechnung, die Bilanz sowie das Buchungsjournals in summarischer Form,
@@ -221,7 +221,7 @@ Rechenschaft verpflichtet.
 
 3 Das Revisionsteam definiert die weiteren Anforderungen an Bericht und Rechnung.
 
-### Art. 15
+#### Art. 15
 
 1 Der Gewinn einer Organisationseinheit wird grundsätzlich zu 30% dem Sozial- und Kulturfonds der Studentenschaft
 zugewiesen, während der Rest in das Eigenkapital der Organisationseinheit fliesst.
@@ -240,7 +240,7 @@ Betrag wird vom Eigenkapital bedient.
 
 6 Ein Gewinn wird erst ausgeschüttet, wenn bestehende Verlustvorträge vollständig kompensiert sind.
 
-### Art. 16
+#### Art. 16
 
 1 Jahresbericht und alle Rechnungsunterlagen sind innerhalb eines Quartals nach der Rechnungsperiode an den für
 Finanzen zuständigen Vorstand zu liefern.
@@ -250,7 +250,7 @@ Finanzen zuständigen Vorstand zu liefern.
 3 Das Revisionsteam prüft die Rechnung auf Konformität mit den anwendbaren Vorschriften und ordnet allfällige
 Korrekturen an. Es kann zulasten der Organisationseinheit externe Experten hinzuziehen.
 
-### Art. 17
+#### Art. 17
 
 1 Der Vorstand bestellt eine externe Revisionsstelle.
 
@@ -269,7 +269,7 @@ abzugeben.
 5 Entstehen durch mangelhafte oder verspätete Buchführung höhere Kosten, gehen diese zulasten der verursachenden
 Organisationseinheit.
 
-### Art. 18
+#### Art. 18
 
 1 Präsident und Rechnungsführer einer Organisationseinheit präsentieren ihren Jahresbericht dem Studentenparlament.
 Sie beantragen die Genehmigung der Rechnung und der Gewinnverteilung im Sinne des Geschäftsreglements des
@@ -281,7 +281,7 @@ vorgeschlagenen Gewinnverteilung.
 
 3 Das Parlament entscheidet in separaten Abstimmungen über die Rechnung und die Gewinnverteilung.
 
-### Art. 19
+#### Art. 19
 
 1 Wird eine Rechnung nicht genehmigt, fallen sämtliche Zahlungen wie Aufwandsentschädigungen an die Mitglieder mit
 Finanzverantwortung einer Organisationseinheit an die Organisationseinheit zurück.
@@ -291,7 +291,7 @@ ausschliesslich im Interesse der Organisationseinheit angefallen sind, genehmige
 
 ## VI. Schlussbestimmungen
 
-### Art. 20
+#### Art. 20
 
 Dieses Reglement ersetzt alle bestehenden finanziellen Vorschriften der Studentenschaft der Universität St. Gallen.
 

@@ -11,7 +11,7 @@ Studentenschaft der Universität St. Gallen vom 3. März 2011 als Reglement übe
 
 (Zur besseren Lesbarkeit wird für beide Geschlechter die männliche Form verwendet)
 
-## Art. 1 Zweck
+#### Art. 1 Zweck
 
 Durch den Erlass dieses Reglements regelt das Studentenparlament die Details der Beteiligung der Gesamtheit der Studenten
 gemäss den Statuten der Studentenschaft. Klar strukturierte Abläufe und Zuständigkeiten sollen allen Beteiligten
@@ -19,13 +19,13 @@ maximale Transparenz garantieren und Konflikte vermeiden.
 
 ## I. Wahlbüro
 
-## Art. 2 Aufgaben
+#### Art. 2 Aufgaben
 
 Dem Wahlbüro obliegen Organisation und Durchführung der Wahlen und Urabstimmungen. Die Verantwortlichen arbeiten
 bereits im Rahmen der Vorbereitung mit den entsprechenden Programm-, Senats- und Schooladministrationen
 zusammen.
 
-## Art. 3 Zusammensetzung
+#### Art. 3 Zusammensetzung
 
 1 Das Wahlbüro besteht aus Präsident und Vize-Präsident des Studentenparlaments, dem Vize-Präsidenten der
 Studentenschaft, mindestens drei Studentenparlamentariern, sowie dem IT Vorstand.
@@ -65,7 +65,7 @@ aufgrund der funktionalen Nähe in ihr Aufgabengebiet fallen.
 6 Die Studentenparlamentarier sind insbesondere für die Organisation und Planung der Wahlen und Urabstimmungen im
 Sinne der Einhaltung dieses Reglements zuständig.
 
-### Art. 4 Unabhängigkeit
+#### Art. 4 Unabhängigkeit
 
 1 Das Wahlbüro erfüllt seine Aufgabe im Rahmen dieses Reglements unabhängig. Jede nicht in diesem Reglement
 vorgesehene Einflussnahme auf das Wahlbüro ist untersagt.
@@ -73,7 +73,7 @@ vorgesehene Einflussnahme auf das Wahlbüro ist untersagt.
 2 Der Vorstand der Studentenschaft stellt dem Wahlbüro die nötige Unterstützung zur Verfügung, insbesondere in den
 Bereichen IT und Marketing.
 
-### Art. 5 Information
+#### Art. 5 Information
 
 1 Das Wahlbüro bedient sich zur Information der Studenten elektronischer Medien, Anschlagbrettern, Plakaten oder
 anderer, geeigneter Mittel.
@@ -81,7 +81,7 @@ anderer, geeigneter Mittel.
 2 Die Erstellung der hierfür erforderlichen Materialien erfolgt durch ein Mitglied des Studentenparlaments unter
 Anleitung sowie Kontrolle des für Marketing zuständigen Vorstands.
 
-### Art. 6 Aufsicht
+#### Art. 6 Aufsicht
 
 1 Die Geschäftsprüfungskommission berät und überwacht das Wahlbüro im Sinne der Einhaltung dieses Reglements.
 
@@ -92,7 +92,7 @@ haben, treten in Ausstand.
 
 ## II. Urabstimmung
 
-### Art. 7 Vorbereitung
+#### Art. 7 Vorbereitung
 
 1 Das Wahlbüro informiert die Studenten sechs Kalendertage vor der Abstimmung über Zeit, Modus, Ort und – in
 neutraler Weise – über den Gegenstand der Abstimmung.
@@ -102,7 +102,7 @@ veröffentlicht werden.
 
 ## III. Wahlen
 
-### Art. 8 Termine
+#### Art. 8 Termine
 
 1 Die studentischen Vertreter im Senat und in den Abteilungsversammlungen werden spätestens in der KW 18 gewählt.
 
@@ -127,7 +127,7 @@ erfolgt auf identische Weise wie die zuvorgehende Ankündigung der regulären Fr
 eingegangene Kandidaturen werden vom Wahlbüro ebenfalls am siebten Kalendertag vor Wahlbeginn veröffentlicht.
 
 
-### Art. 9 Kandidaturen
+#### Art. 9 Kandidaturen
 
 1 Kandidaturen werden auf einem vorgängig durch die Geschäftsprüfungskommission genehmigten Formular
 elektronisch zuhanden des Wahlbüros eingereicht. Es gelten die Kontaktdaten und Fristen gemäss dem
@@ -151,12 +151,12 @@ Statuten der Studentenschaft der Universität St. Gallen vom 03. März 2011. Ein
 vorbehalten, welches bereits ein Jahr in einem anderen Organ der Studentenschaft verbracht hat. Sind die
 Voraussetzungen nach obiger Bestimmung nicht erfüllt, so ist die Wahl der Rekursstelle nicht rechtsgültig.
 
-### Art. 10 Neuwahlen
+#### Art. 10 Neuwahlen
 
 Werden gemäss Art. 18 Abs. 5 der Statuten der Studentenschaft Neuwahlen notwendig, gelten Art. 8 Abs. 5-8 und Art. 9
 dieses Reglements sinngemäss.
 
-### Art. 10a Nachwahlen
+#### Art. 10a Nachwahlen
 
 1 Sind zu Beginn des Herbstsemesters nicht alle Sitze der studentischen Vertreter im Senat und in den
 Abteilungsversammlungen besetzt, wird für die verbleibenden Einsitze eine Nachwahl zeitgleich mit der Wahl der
@@ -170,7 +170,7 @@ unbesetzten Sitze von studentischen Vertretern und Programmvertretern durchgefü
 
 ## IV. Durchführung
 
-### Art. 11 Stimmabgabe
+#### Art. 11 Stimmabgabe
 
 1 Die Stimmabgabe erfolgt elektronisch.
 
@@ -182,7 +182,7 @@ informiert. Kandidaten werden nach Funktion und alphabetisch nach Namen sortiert
 4 Bei Vorliegen besonderer Umstände, welche eine ordnungsgemässe elektronische Stimmabgabe verhindern, kann das
 Wahlbüro subsidiär und nur in Ausnahmefällen auf analoge Mittel zur Stimmabgabe zurückgreifen.
 
-### Art. 12 Modus
+#### Art. 12 Modus
 
 1 Die Stimmabgabe ist persönlich und geheim.
 
@@ -192,7 +192,7 @@ Wahlbüro subsidiär und nur in Ausnahmefällen auf analoge Mittel zur Stimmabga
 ausgeschlossen.
 
 
-### Art. 13 Zeiten
+#### Art. 13 Zeiten
 
 1 Die Wahl oder Abstimmung dauert vier Arbeitstage. Sie beginnt am ersten Tag um 08:00 Uhr und endet am vierten um
 18:00 Uhr.
@@ -202,13 +202,13 @@ Stand über die Wahl zu informiert werden.
 
 ## V. Resultat
 
-### Art. 14 Stimmenzahl
+#### Art. 14 Stimmenzahl
 
 #### [1] ...
 
 2 Ungültige Stimmen gelten als nicht erfolgt.
 
-### Art. 15 Ermittlung
+#### Art. 15 Ermittlung
 
 1 Eine Abstimmung entscheidet die einfache Mehrheit. Im Falle gleich vieler positiver wie negativer Voten gilt die Vorlage
 als abgelehnt.
@@ -216,7 +216,7 @@ als abgelehnt.
 2 Wahlen entscheidet die relative Mehrheit. Im Falle von Stimmengleichheit entscheidet das Datum der Einreichung der
 Kandidatur.
 
-### Art. 16 Prozedere
+#### Art. 16 Prozedere
 
 1 Vor Beendigung der Wahl bzw. Abstimmung dürfen keine Resultate ermittelt werden.
 
@@ -229,11 +229,11 @@ Geschäftsprüfungskommission vorzuziehen, subsidiär kann ein weiteres Mitglied
 
 ## VI. Rechtsmittel
 
-### Art. 17 Daten
+#### Art. 17 Daten
 
 Alle elektronischen Daten werden bis zum Ablauf der Rekursfrist aufbewahrt und anschliessend vernichtet.
 
-### Art. 18 Rekurs
+#### Art. 18 Rekurs
 
 1 Ein Rekurs muss die Verletzung dieses Reglements bzw. der Statuten belegen. Weiter ist glaubhaft zu machen, dass das
 Resultat durch diese Verletzung verfälscht wurde.
@@ -246,7 +246,7 @@ Resultat durch diese Verletzung verfälscht wurde.
 shsg.ch Seite zu publizieren. Bei elektronischer Übermittlung muss das Dokument, das die Eingabe und die Beilagen
 enthält, mit einer anerkannten elektronischen Signatur des Absenders versehen sein.
 
-### Art. 19
+#### Art. 19
 
 Dieses Reglement ersetzt alle bestehenden Reglemente über Wahlen und Urabstimmungen der Studentenschaft der
 Universität St. Gallen.

@@ -13,11 +13,11 @@ Studentenschaft der Universität St. Gallen vom 03. März 2011 als Reglement üb
 
 ## I. Organisation
 
-## Art. 1 Mitgliedschaft
+#### Art. 1 Mitgliedschaft
 
 Jedes Mitglied des Parlaments ist gleichzeitig auch Mitglied mindestens einer ständigen Kommission des Studentenparlaments.
 
-## Art. 2 Kommissionssitz
+#### Art. 2 Kommissionssitz
 
 1 Das Präsidium des Studentenparlaments teilt jeden Parlamentarier nach der ersten Sitzung des Herbstsemesters in eine
 Kommission ein.
@@ -32,7 +32,7 @@ vertreten ist, um eine Optimierung der Wissenssicherung zu erreichen.
 4 Auf Wunsch eines Parlamentariers kann der Präsident des Studentenparlaments diesen zusätzlich weiteren
 Kommissionen zuteilen.
 
-## Art. 3 Konstitution
+#### Art. 3 Konstitution
 
 1 Die Kommissionen konstituieren sich grundsätzlich selber. Ein bestehendes Mitglied der Vorjahres-Kommission beruft
 die erste Sitzung der neuen Kommission im Herbstsemester ein und leitet sie nach Möglichkeit. Der Präsident des
@@ -48,7 +48,7 @@ dem Präsidium des Studentenparlaments und den übrigen Kommissionsmitgliedern b
 4 Das StuPa-Präsidium teilt nach dem Amtswechsel der Gremienvertreter den neuen Parlamentariern ad interim bis zur
 Konstituierung nach Abs. 1 Kommissionssitze zu.
 
-## Art. 4 Sitzungen
+#### Art. 4 Sitzungen
 
 1 Die Kommissionen tagen nach Bedarf. Dabei gibt es sowohl mindestens eine offizielle Sitzung pro Semester als auch
 informelle Treffen.
@@ -62,7 +62,7 @@ der Kommissionen ab.
 4 Von den Sitzungen wird Protokoll geführt und dieses sämtlichen Mitgliedern sowie dem StuPa-Präsidium zugestellt.
 
 
-### Art. 5 Gäste
+#### Art. 5 Gäste
 
 1 Die Kommissionen können zu ihren Sitzungen jederzeit Verantwortliche und Experten beiziehen.
 
@@ -73,14 +73,14 @@ Mitgliedern zuzustellen.
 3 Die Termine der Kommissionssitzungen sowie die Traktanden sind dem Vorstand der Studentenschaft, der GPK und
 dem StuPa-Präsidium mitzuteilen.
 
-### Art. 6 Öffentlichkeit
+#### Art. 6 Öffentlichkeit
 
 1 Die Sitzungen der Kommissionen sind öffentlich.
 
 2 Die Kommissionen können begründet den Ausschluss der Öffentlichkeit beschliessen. Bei derartigen Geschäften
 unterstehen die Anwesenden einer Schweigepflicht gegenüber Dritten.
 
-### Art. 7 Anwesenheit
+#### Art. 7 Anwesenheit
 
 1 Es gilt grundsätzlich Anwesenheitspflicht. Kommissionsmitglieder haben sich möglichst bis 24 Stunden, in jedem Fall
 aber vor Sitzungsbeginn unter Angabe des Grundes beim Kommissionsvorsitzenden abzumelden. In solchen Fällen gilt
@@ -95,12 +95,12 @@ Studentenparlaments (StuPa) vom 27. April 2011.
 
 ## II. Ständige und nicht ständige Kommissionen
 
-### Art. 8 Ständige Kommissionen
+#### Art. 8 Ständige Kommissionen
 
 Ständige Kommissionen des Studentenparlaments sind die Politikkommission, die Finanzkommission, die
 Vorstandskommission, die Initiativenkommission und die Rechtskommission.
 
-### Art. 9 Nicht ständige Kommissionen
+#### Art. 9 Nicht ständige Kommissionen
 
 1 Das Studentenparlament entscheidet über die Einsetzung einer nicht ständigen Kommission und deren Mitglieder.
 
@@ -112,7 +112,7 @@ Vorstandskommission, die Initiativenkommission und die Rechtskommission.
 
 ## III. Politikkommission
 
-### Art. 10 Kompetenzbereiche und Mitglieder
+#### Art. 10 Kompetenzbereiche und Mitglieder
 
 1 Die Aufgaben und Kompetenzen der Politikkommission umfassen insbesondere:
 
@@ -127,7 +127,7 @@ nehmen als ständige Gäste an den Sitzungen teil.
 
 ## IV. Finanzkommission
 
-### Art. 11 Kompetenzbereiche und Mitglieder
+#### Art. 11 Kompetenzbereiche und Mitglieder
 
 1 Die Aufgaben und Kompetenzen der Finanzkommission umfassen insbesondere:
 
@@ -159,7 +159,7 @@ rechenschaftspflichtigen Organisationen zu informieren.
 
 ## V. Vorstandkommission
 
-### Art. 12 Kompetenzbereiche und Mitglieder
+#### Art. 12 Kompetenzbereiche und Mitglieder
 
 1 Die Aufgaben und Kompetenzen Vorstandskommission umfassen insbesondere:
 
@@ -175,7 +175,7 @@ zuständige Vorstand wird zur Sitzung eingeladen.
 
 ## VI. Initiativenkommission
 
-### Art. 13 Kompetenzbereiche und Mitglieder
+#### Art. 13 Kompetenzbereiche und Mitglieder
 
 1 Die Aufgaben und Kompetenzen der Initiativenkommission umfassen insbesondere:
 
@@ -193,7 +193,7 @@ wichtige Themen oder Probleme der Initiativen.
 ## VII. Rechtskommission
 
 
-### Art. 14 Kompetenzbereiche und Mitglieder
+#### Art. 14 Kompetenzbereiche und Mitglieder
 
 1 Die Aufgaben und Kompetenzen der Rechtskommission umfassen insbesondere:
 
@@ -216,7 +216,7 @@ Unstimmigkeiten bezüglich der rechtlichen Grundlagen.
 
 ## IX. Schlussbestimmungen
 
-### Art. 17 Anwendung und Aufhebung
+#### Art. 17 Anwendung und Aufhebung
 
 Dieses Reglement konkretisiert das Geschäftsreglement des Studentenparlaments und ersetzt alle bisherigen Reglemente über
 die ständigen Kommissionen und über die parlamentarischen Kommissionen.

@@ -11,12 +11,12 @@ Studentenschaft der Universität St. Gallen vom 3. März 2011 als Reglement übe
 
 ## I. Präambel
 
-## Art. 1 Zweck
+#### Art. 1 Zweck
 
 Die folgenden allgemeinen Bestimmungen gelten für alle Vertreter der Studentenschaft der Universität St. Gallen in allen
 Gremien, in denen der Studentenschaft auf Grundlage des Universitätsstatutes der Einsitz zusteht.
 
-## Art. 2 Positionen
+#### Art. 2 Positionen
 
 1 Das Studentenparlament erarbeitet in Zusammenarbeit mit dem Vorstand der Studentenschaft die von der
 Studentenschaft vertretenen Grundsatzpositionen sowie die Ziele der Vertreter in den jeweiligen Gremien.
@@ -30,14 +30,14 @@ suchen nach Möglichkeit nach Lösungen oder leiten die Anliegen an andere Veran
 
 ## II. Pflichten und Aufgaben
 
-## Art. 3 Auftrag
+#### Art. 3 Auftrag
 
 1 Studentische Vertreter nehmen die Interessen aller Studenten in der universitären Selbstverwaltung wahr.
 
 2 Studentische Vertreter nehmen Ihre Aufgaben pflichtbewusst wahr. Eine Teilnahme an den entsprechenden Sitzungen
 wird vorausgesetzt.
 
-## Art. 4 Nachfolge und Übergabe
+#### Art. 4 Nachfolge und Übergabe
 
 1 Nach ihrer Wahl werden die Vertreter durch das Studentenparlament über ihre Pflichten gemäss diesem Reglement
 informiert.
@@ -53,7 +53,7 @@ Programmleitungen mitgeteilt.
 4 Die gewählten studentischen Vertreter unterstützen das Wahlbüro und das Studentenparlament bei der Suche nach
 einem geeigneten Nachfolger und beantworten interessierten Studenten Fragen zu ihrer Position.
 
-## Art. 5 Teilnahme
+#### Art. 5 Teilnahme
 
 1 Wo der betreffende Ausschuss oder die Kommission ein vorberatendes Gremium kennt, hat mindestens ein
 studentischer Vertreter in diesem Einsitz.
@@ -77,7 +77,7 @@ solchen Fällen gilt die betreffende Person als entschuldigt abwesend.
 7 Anwesenheit, Rüge und Disziplinarbusse richten sich nach Art. 16 Abs. 4 ff. des Geschäftsreglements des
 Studentenparlaments (StuPa) vom 27. April 2011.
 
-### Art. 6 Informationspflicht
+#### Art. 6 Informationspflicht
 
 1 Die studentischen Vertreter in den Schools orientieren das Studentenparlament und den Vorstand der Studentenschaft
 in jeder Sitzung des Studentenparlaments über die aktuellen Themen in ihren Gremien. Sie berücksichtigen dabei die
@@ -98,7 +98,7 @@ bestimmten Themen statt.
 Studentenparlaments sind, berichten einmal jährlich auf Einladung des Präsidenten des Studentenparlaments von der
 Tätigkeit ihrer Gremien.
 
-### Art. 7 Unabhängigkeit und Rechenschaft
+#### Art. 7 Unabhängigkeit und Rechenschaft
 
 1 Studentische Vertreter sind unabhängig und unterliegen keiner Stimminstruktion.
 
@@ -106,12 +106,12 @@ Tätigkeit ihrer Gremien.
 
 ## III. Senat und Schools
 
-### Art. 8 Wahlen und Amtszeit
+#### Art. 8 Wahlen und Amtszeit
 
 Die Wahlen und die Amtszeit der studentischen Vertreter im Senat und Schools richten sich nach den Statuten und dem
 Reglement über Wahlen und Urabstimmungen der Studentenschaft.
 
-### Art. 9 Ex officio
+#### Art. 9 Ex officio
 
 1 Von den studentischen Vertretern in Senat und Abteilungsversammlungen ist ex officio besetzt:
 
@@ -122,7 +122,7 @@ der Studentenschaft aus ihren Reihen bestimmt.
 
 ## IV. Übrige Gremien der universitären Selbstverwaltung
 
-### Art. 10 Kandidatensuche
+#### Art. 10 Kandidatensuche
 
 
 1 Die Kandidatenwerbung obliegt dem Studentenparlament. Kandidatur- und Wahltermine werden von ihm auf geeignete
@@ -135,7 +135,7 @@ studentischen Vertreter und stellt entsprechende Auskünfte betreffend der zu be
 
 4 Der Vorstand unterstützt das Studentenparlament bei der Kandidatenwerbung.
 
-### Art. 11 Wahlen
+#### Art. 11 Wahlen
 
 1 Die Vertreter werden durch das Studentenparlament in einer ordentlichen Sitzung des Studentenparlaments in der
 letzten ordentlichen Studentenparlamentssitzung vor Beginn der nächsten Amtszeit der Gremienvertreter für die
@@ -146,14 +146,14 @@ universitären Selbstverwaltung sind kombinierbar mit jeglichen Ämtern und Funk
 
 ### [Art. 12] ...
 
-### Art. 13 Amtsdauer
+#### Art. 13 Amtsdauer
 
 1 Die Amtsdauer beträgt ein Jahr und dauert in der Regel vom 1. Juni bis zum 31. Mai des folgenden Jahres, bzw. bis zur
 Neuwahl.
 
 2 Eine Wiederwahl ist zulässig.
 
-### Art. 14 Ex officio
+#### Art. 14 Ex officio
 
 1 Von den studentischen Vertretern in den universitären Gremien sind ex officio besetzt:
 
@@ -180,7 +180,7 @@ Geschäftsjahr vorausgehenden Legislaturperiode bestätigt werden.
 4 Im Falle einer Nichtbestätigung gem. Art. 14 Abs. 3, wird das Studentenparlament den Einsitz in der Kommission neu
 vergeben.
 
-### Art. 15 Abwahl
+#### Art. 15 Abwahl
 
 Das Studentenparlament kann die Vertreter, mit Ausnahme der ex-officio ernannten Vertreter, mit einem Zweidrittelmehr der
 anwesenden Studentenparlamentarier abwählen.
@@ -192,7 +192,7 @@ anwesenden Studentenparlamentarier abwählen.
 
 ## VI. Schlussbestimmungen
 
-### Art. 17 Aufhebung
+#### Art. 17 Aufhebung
 
 Dieses Reglement ersetzt alle bisherigen Reglemente über die studentischen Vertreter.
 
