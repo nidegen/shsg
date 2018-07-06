@@ -52,8 +52,8 @@ To the extent required by their activities, members of the official bodies and o
 1. The Student Parliament is accountable to the general membership of the Student Union.
 2. The Executive Committee is accountable to the Student Parliament and the general membership of the Student Union.
 3. The Audit Committee is accountable to the general membership of the Student Union.
-4 The Appeals Board is accountable to the general membership of the Student Union.
-5 Student initiatives are accountable to the Student Parliament.
+4. The Appeals Board is accountable to the general membership of the Student Union.
+5. Student initiatives are accountable to the Student Parliament.
 
 #### Art. 12 Elections and Ballots
 1. If these Statutes or a Regulation of the Student Union provide for a ballot, the point at issue will be submitted to the general
