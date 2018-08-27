@@ -1,8 +1,6 @@
 Das Studentenparlament der Universität St. Gallen beschliesst:
 
-# Reglement über Wahlen und Urabstimmungen vom 23. März
-
-# 2011
+# Reglement über Wahlen und Urabstimmungen vom 23. März 2011
 
 Vom Studentenparlament genehmigt am 23. März 2011, in Kraft ab dem 01. Juni 2011, Stand 01. Juni 2017
 
@@ -14,69 +12,43 @@ Studentenschaft der Universität St. Gallen vom 3. März 2011 als Reglement übe
 #### Art. 1 Zweck
 
 Durch den Erlass dieses Reglements regelt das Studentenparlament die Details der Beteiligung der Gesamtheit der Studenten
-gemäss den Statuten der Studentenschaft. Klar strukturierte Abläufe und Zuständigkeiten sollen allen Beteiligten
-maximale Transparenz garantieren und Konflikte vermeiden.
+gemäss den Statuten der Studentenschaft. Klar strukturierte Abläufe und Zuständigkeiten sollen allen Beteiligten maximale Transparenz garantieren und Konflikte vermeiden.
 
 ## I. Wahlbüro
 
 #### Art. 2 Aufgaben
 
-Dem Wahlbüro obliegen Organisation und Durchführung der Wahlen und Urabstimmungen. Die Verantwortlichen arbeiten
-bereits im Rahmen der Vorbereitung mit den entsprechenden Programm-, Senats- und Schooladministrationen
+Dem Wahlbüro obliegen Organisation und Durchführung der Wahlen und Urabstimmungen. Die Verantwortlichen arbeiten bereits im Rahmen der Vorbereitung mit den entsprechenden Programm-, Senats- und Schooladministrationen
 zusammen.
 
 #### Art. 3 Zusammensetzung
 
-1 Das Wahlbüro besteht aus Präsident und Vize-Präsident des Studentenparlaments, dem Vize-Präsidenten der
-Studentenschaft, mindestens drei Studentenparlamentariern, sowie dem IT Vorstand.
+1 Das Wahlbüro besteht aus Präsident und Vize-Präsident des Studentenparlaments, dem Vize-Präsidenten der Studentenschaft, mindestens drei Studentenparlamentariern, sowie dem IT Vorstand.
 
-1bis Endet durch Ende der Amtszeit auch die Zugehörigkeit aller Studentenparlamentarier im Wahlbüro, bestellt das
-Studentenparlament ein interimistisches Wahlbüro zur ordnungsgemässen Durchführung der Programmvertreter-
-Wahlen gem. Art. 8 Abs. 3. Dieses besteht aus den zuvor genannten Vorstandsmitgliedern, den sich noch im Amt
-befindlichen Programmvertretern sowie bei Bedarf neu gewählten Gremienvertretern. Das Präsidium des
-Studentenparlaments ist verantwortlich für die Organisation der Bestellung des interimistischen Wahlbüros. Kann das
-Wahlbüro nicht ordnungsgemäss besetzt werden, ist das Präsidium des Studentenparlaments für die Organisation der
-Programmvertreterwahlen zuständig.
+1bis Endet durch Ende der Amtszeit auch die Zugehörigkeit aller Studentenparlamentarier im Wahlbüro, bestellt das Studentenparlament ein interimistisches Wahlbüro zur ordnungsgemässen Durchführung der Programmvertreterwahlen gem. Art. 8 Abs. 3. Dieses besteht aus den zuvor genannten Vorstandsmitgliedern, den sich noch im Amt befindlichen Programmvertretern sowie bei Bedarf neu gewählten Gremienvertretern. Das Präsidium des Studentenparlaments ist verantwortlich für die Organisation der Bestellung des interimistischen Wahlbüros. Kann das Wahlbüro nicht ordnungsgemäss besetzt werden, ist das Präsidium des Studentenparlaments für die Organisation der Programmvertreterwahlen zuständig.
 
-2 Mitglieder des Wahlbüros, die an einer zu organisierenden Wahl selbst kandidieren, treten für die Organisation und
-Durchführung der jeweiligen Wahl in den Ausstand. Sind zwei oder mehr Mitglieder des Wahlbüros betroffen, ernennt
-der Präsident des Studentenparlaments in Abstimmung mit dem Präsidenten des Wahlbüros einen interimistischen
-Vertreter für die Dauer der Wahl. Tritt der Vorsitzende des Wahlbüros oder der Präsident des Studentenparlaments in
-den Ausstand, ernennen die nicht im Ausstand stehenden Mitglieder des Präsidiums des Studentenparlamentes einen
-interimistischen Vorsitzenden bzw. Nachfolger für das Wahlbüro.
+2 Mitglieder des Wahlbüros, die an einer zu organisierenden Wahl selbst kandidieren, treten für die Organisation und Durchführung der jeweiligen Wahl in den Ausstand. Sind zwei oder mehr Mitglieder des Wahlbüros betroffen, ernennt der Präsident des Studentenparlaments in Abstimmung mit dem Präsidenten des Wahlbüros einen interimistischen Vertreter für die Dauer der Wahl. Tritt der Vorsitzende des Wahlbüros oder der Präsident des Studentenparlaments in den Ausstand, ernennen die nicht im Ausstand stehenden Mitglieder des Präsidiums des Studentenparlamentes einen interimistischen Vorsitzenden bzw. Nachfolger für das Wahlbüro.
 
-2bis Mitglieder des Wahlbüros müssen ihr persönliches Interesse an einer Wahl dem Wahlbüro vor der ersten offiziellen
-Kommunikation der jeweiligen Kandidaturfrist bzw. Nachfrist melden. Mitglieder, welche sich nicht fristgemäss beim
-Wahlbüro melden, sind von einer Kandidatur in der regulären Frist bei der jeweiligen Wahl ausgeschlossen. Wird eine
-Nachfrist gem. Art. 9 Abs. 2 erforderlich, besteht erneut die Möglichkeit der Kandidatur für Mitglieder des Wahlbüros,
-sofern diese ihr Interesse binnen eines Kalendertages beim Wahlbüro angezeigen. Art. 3 Abs. 2 gilt für die
-Wahldurchführung sodann sinngemäss.
+2bis Mitglieder des Wahlbüros müssen ihr persönliches Interesse an einer Wahl dem Wahlbüro vor der ersten offiziellen Kommunikation der jeweiligen Kandidaturfrist bzw. Nachfrist melden. Mitglieder, welche sich nicht fristgemäss beim Wahlbüro melden, sind von einer Kandidatur in der regulären Frist bei der jeweiligen Wahl ausgeschlossen. Wird eine Nachfrist gem. Art. 9 Abs. 2 erforderlich, besteht erneut die Möglichkeit der Kandidatur für Mitglieder des Wahlbüros, sofern diese ihr Interesse binnen eines Kalendertages beim Wahlbüro angezeigen. Art. 3 Abs. 2 gilt für die Wahldurchführung sodann sinngemäss.
 
 3 [...]
 
-4 Der Vize-Präsident der Studentenschaft besetzt ex officio den Vorsitz des Wahlbüros. Er ist in dieser Funktion
-insbesondere für die Koordination der zugeteilten Verantwortlichkeiten der Mitglieder des Wahlbüros, für die
-Überwachung der Prozesse sowie der ordnungsgemässen Durchführung der Wahlen zuständig.
+4 Der Vize-Präsident der Studentenschaft besetzt ex officio den Vorsitz des Wahlbüros. Er ist in dieser Funktion insbesondere für die Koordination der zugeteilten Verantwortlichkeiten der Mitglieder des Wahlbüros, für die Überwachung der Prozesse sowie der ordnungsgemässen Durchführung der Wahlen zuständig.
 
-5 Insbesondere delegiert der Vize-Präsident der Studentenschaft auch Tätigkeiten an Mitglieder des Vorstandes, die
-aufgrund der funktionalen Nähe in ihr Aufgabengebiet fallen.
+5 Insbesondere delegiert der Vize-Präsident der Studentenschaft auch Tätigkeiten an Mitglieder des Vorstandes, die aufgrund der funktionalen Nähe in ihr Aufgabengebiet fallen.
 
 
-6 Die Studentenparlamentarier sind insbesondere für die Organisation und Planung der Wahlen und Urabstimmungen im
-Sinne der Einhaltung dieses Reglements zuständig.
+6 Die Studentenparlamentarier sind insbesondere für die Organisation und Planung der Wahlen und Urabstimmungen im Sinne der Einhaltung dieses Reglements zuständig.
 
 #### Art. 4 Unabhängigkeit
 
-1 Das Wahlbüro erfüllt seine Aufgabe im Rahmen dieses Reglements unabhängig. Jede nicht in diesem Reglement
-vorgesehene Einflussnahme auf das Wahlbüro ist untersagt.
+1 Das Wahlbüro erfüllt seine Aufgabe im Rahmen dieses Reglements unabhängig. Jede nicht in diesem Reglement vorgesehene Einflussnahme auf das Wahlbüro ist untersagt.
 
-2 Der Vorstand der Studentenschaft stellt dem Wahlbüro die nötige Unterstützung zur Verfügung, insbesondere in den
-Bereichen IT und Marketing.
+2 Der Vorstand der Studentenschaft stellt dem Wahlbüro die nötige Unterstützung zur Verfügung, insbesondere in den Bereichen IT und Marketing.
 
 #### Art. 5 Information
 
-1 Das Wahlbüro bedient sich zur Information der Studenten elektronischer Medien, Anschlagbrettern, Plakaten oder
-anderer, geeigneter Mittel.
+1 Das Wahlbüro bedient sich zur Information der Studenten elektronischer Medien, Anschlagbrettern, Plakaten oder anderer, geeigneter Mittel.
 
 2 Die Erstellung der hierfür erforderlichen Materialien erfolgt durch ein Mitglied des Studentenparlaments unter
 Anleitung sowie Kontrolle des für Marketing zuständigen Vorstands.
@@ -106,15 +78,11 @@ veröffentlicht werden.
 
 1 Die studentischen Vertreter im Senat und in den Abteilungsversammlungen werden spätestens in der KW 18 gewählt.
 
-2 Der Präsident und der Vize-Präsident des Vorstandes werden in der KW 13 gewählt. In begründeten Fällen kann das
-Wahlbüro um eine Kalenderwoche davon abweichen.3 Die Studierenden eines Programmes wählen die
-Programmvertreter aus ihren Reihen in der KW 40.
+2 Der Präsident und der Vize-Präsident des Vorstandes werden in der KW 13 gewählt. In begründeten Fällen kann das Wahlbüro um eine Kalenderwoche davon abweichen.3 Die Studierenden eines Programmes wählen die Programmvertreter aus ihren Reihen in der KW 40.
 
 4 Die Mitglieder der Rekursstelle werden in der KW 18 gewählt.
 
-5 Das Wahlbüro informiert die Studenten mindestens 14 Kalendertage vor der Wahl über die zu besetzenden Ämter sowie
-über die Form und Frist der Kandidaturen gemäss Art. 5 und einer E-Mail an die wahl- bzw. stimmberechtigten
-Personen.
+5 Das Wahlbüro informiert die Studenten mindestens 14 Kalendertage vor der Wahl über die zu besetzenden Ämter sowie über die Form und Frist der Kandidaturen gemäss Art. 5 und einer E-Mail an die wahl- bzw. stimmberechtigten Personen.
 
 6 Die Kandidaturen müssen bis sieben Kalendertage vor dem Wahltermin eingereicht werden.
 
