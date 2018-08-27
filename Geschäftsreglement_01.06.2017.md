@@ -160,8 +160,7 @@ Der Vorsitzende kann Aussenstehenden das Diskussionsrecht einräumen.
 ## III. Beratungsordnung
 
 #### Art. 18 Eröffnung
-Der Vorsitzende eröffnet die Sitzung. Er bestimmt die Stimmenzähler und legt daraufhin die Traktandenliste und das
-Protokoll der letzten Sitzung zur Genehmigung vor.
+Der Vorsitzende eröffnet die Sitzung. Er bestimmt die Stimmenzähler und legt daraufhin die Traktandenliste und das Protokoll der letzten Sitzung zur Genehmigung vor.
 
 #### Art. 19 Appell
 Mittels Appell (namentlicher Aufruf) wird das Quorum festgestellt.
@@ -402,18 +401,11 @@ das Gesamtbudget aufgezeigt werden müssen
 
 d beinhaltet die Initiativen nicht
 
-3 Dem Studentenparlament ist das provisorische Budget der Folgeperiode in der letzten ordentlichen Sitzung der
-Legislaturperiode des Vorstandes zur Bewilligung vorzulegen. Die Darstellung des provisorischen Budgets hat dabei in
-der Weise zu erfolgen, dass es als Grundlage für einen reflektierten Bewilligungsentscheid herangezogen werden kann.
-Dies bedeutet insbesondere, dass das provisorische Budget übersichtlich, eindeutig und verständlich sein muss, sowie
-dass ihm, zum periodenübergreifenden Vergleich, jeweils mindestens die Budgets der vorhergehenden zwei
-Rechnungsperioden in vergleichender Darstellung beizulegen sind.
+3 Dem Studentenparlament ist das provisorische Budget der Folgeperiode in der letzten ordentlichen Sitzung der Legislaturperiode des Vorstandes zur Bewilligung vorzulegen. Die Darstellung des provisorischen Budgets hat dabei in der Weise zu erfolgen, dass es als Grundlage für einen reflektierten Bewilligungsentscheid herangezogen werden kann. Dies bedeutet insbesondere, dass das provisorische Budget übersichtlich, eindeutig und verständlich sein muss, sowie dass ihm, zum periodenübergreifenden Vergleich, jeweils mindestens die Budgets der vorhergehenden zwei Rechnungsperioden in vergleichender Darstellung beizulegen sind.
 
-4 Dem Studentenparlament sind die Projektbudgets vor der Kommunikation oder Tätigung jeglicher darin budgetierten
-Ausgaben zur Bewilligung vorzulegen.
+4 Dem Studentenparlament sind die Projektbudgets vor der Kommunikation oder Tätigung jeglicher darin budgetierten Ausgaben zur Bewilligung vorzulegen.
 
-5 Sämtlichen Mitgliedern des Finanzausschusses sowie der Mitglieder der GPK ist die aktuelle Lage der
-Vorstandsrechnung nach Gliederung des Budgets zu jeder Sitzung des Studentenparlaments zuzustellen.
+5 Sämtlichen Mitgliedern des Finanzausschusses sowie der Mitglieder der GPK ist die aktuelle Lage der Vorstandsrechnung nach Gliederung des Budgets zu jeder Sitzung des Studentenparlaments zuzustellen.
 
 #### Art. 30a
 1 Der Vorstand, das StuPa-Präsidium und die GPK legen dem Studentenparlament den Tätigkeitsbericht vor der letzten

@@ -9,6 +9,7 @@ Das Studentenparlament der Universität St. Gallen genehmigt gestützt auf Art. 
 (Zur besseren Lesbarkeit wird für beide Geschlechter die männliche Form verwendet)
 
 ## Allgemeine Bestimmungen
+
 #### Art. 1 Fonds
 
 Die Studentenschaft der Universität St. Gallen führt unter der Bezeichnung „Sozial- und Kulturfonds der Universität St. Gallen“ einen zweckgebundenen Fonds mit eigener Verwaltung und eigener Rechnung.
